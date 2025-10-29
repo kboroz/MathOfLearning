@@ -21,3 +21,7 @@ https://people.math.ethz.ch/~abandeira//BandeiraSingerStrohmer-MDS-draft.pdf
 ## IMTx: Understanding Artificial Intelligence through Algorithmic Information Theory
 
 https://www.edx.org/learn/artificial-intelligence/imt-understanding-artificial-intelligence-through-algorithmic-information-theory
+
+## Weitz / HAW Hamburg
+
+https://www.youtube.com/@WeitzHAWHamburg/playlists
