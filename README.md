@@ -25,3 +25,7 @@ https://www.edx.org/learn/artificial-intelligence/imt-understanding-artificial-i
 ## Weitz / HAW Hamburg
 
 https://www.youtube.com/@WeitzHAWHamburg/playlists
+ 
+## Learning_Theory_from_First_Principles
+
+https://github.com/fbach2000/Learning_Theory_from_First_Principles/tree/main
